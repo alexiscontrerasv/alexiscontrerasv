@@ -11,7 +11,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
+    <a href="https://github.com/alexiscontrerasv/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alexis Contreras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexiscontrerasv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
