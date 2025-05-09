@@ -12,15 +12,9 @@
 
 <p align="center">
     <a href="https://github.com/alexiscontrerasv">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alexis Contreras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexiscontrerasv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats-tau-gold.vercel.app?user=alexiscontrerasv&theme=gruvbox&locale=es" alt="GitHub Streak" />
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexiscontrerasv&theme=monokai&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexiscontrerasv&theme=nightowl&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun)](https://git.io/streak-stats)
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alexiscontrerasv&theme=nightowl&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 <p align="center">
 
