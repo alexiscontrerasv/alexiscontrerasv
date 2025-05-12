@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://github.com/alexiscontrerasv">
-        <img src="https://github-readme-streak-stats-tau-gold.vercel.app?user=alexiscontrerasv&theme=gruvbox&locale=es" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-tau-gold.vercel.app?user=alexiscontrerasv&theme=gruvbox&hide_border=true&locale=es&exclude_days=Sun" alt="GitHub Streak" />
     </a>
 </p>
 
